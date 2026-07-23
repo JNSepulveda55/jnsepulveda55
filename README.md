@@ -1,4 +1,7 @@
-## Hi there 👋
+## Juan Nicolás Sepúlveda Arias
+
+![Juan Nicolas Sepulveda Arias](/media/dragon_reveal.gif)
+
 
 <!--
 **JNSepulveda55/jnsepulveda55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
