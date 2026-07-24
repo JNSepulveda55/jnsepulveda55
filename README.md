@@ -1,8 +1,9 @@
-## Juan Nicolás Sepúlveda Arias
-
 ![Juan Nicolas Sepulveda Arias](/media/dragon_reveal.gif)
 
-
+```text
+> AI Researcher
+> Math-head
+```
 <!--
 **JNSepulveda55/jnsepulveda55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
